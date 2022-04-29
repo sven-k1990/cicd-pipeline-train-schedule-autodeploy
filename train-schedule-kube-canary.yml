@@ -1,7 +1,7 @@
 ---
 
 kind: Service
-apiVersion: v1
+apiVersion: apps/v1
 metadata:
   name: train-schedule-service-canary
 spec:
